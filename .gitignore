@@ -40,6 +40,10 @@
 # *.iml
 # *.ipr
 
+
+.idea/
+RevengePlanner.iml
+
 # CMake
 cmake-build-*/
 
